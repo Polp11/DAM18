@@ -34,10 +34,10 @@ We obtain the following result:
 | Week 4   | 1.14     | 0.76     |
 
 
-![Sin titulo](C:\Users\frank\Desktop\tablas.jpg)
+![image](tablas.JPG)
 
 
-**When analyzing the results, we found that only in the first week there was no decrease in the weekly error rate. As there is a tendency to decrease the error, we give the bonus to the workers. **
+**When analyzing the results, we found that only in the first week there was no decrease in the weekly error rate. As there is a tendency to decrease the error, we give the bonus to the workers.**
 
 
 
