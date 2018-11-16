@@ -1,4 +1,4 @@
-# Edited Assignment: Decision making
+# Assignment: Decision making
 
 Task:
 
